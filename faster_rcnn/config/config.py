@@ -41,10 +41,10 @@ config.network.NUM_ANCHORS = len(config.network.ANCHOR_SCALES) * len(config.netw
 # dataset related params
 config.dataset = edict()
 config.dataset.dataset = 'PascalVOC'
-config.dataset.image_set = '2007_trainval'
-config.dataset.test_image_set = '2007_test'
+config.dataset.image_set = '2012_trainval'
+config.dataset.test_image_set = '2012_test'
 config.dataset.root_path = './data'
-config.dataset.dataset_path = './data/VOCdevkit'
+config.dataset.dataset_path = './data/VOCdevkit2012'
 config.dataset.NUM_CLASSES = 21
 
 
