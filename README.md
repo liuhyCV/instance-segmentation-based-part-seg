@@ -45,4 +45,5 @@ Here we use Mask RCNN bbox detection result
 
 ## Instance Segmentation with Part Semantic Segmentation and Connection Prediction
 
+We use Real-time super-pixel segmentation[gSLICr](https://github.com/carlren/gSLICr) to generate superpixels
 
