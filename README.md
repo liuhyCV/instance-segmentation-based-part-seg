@@ -37,13 +37,24 @@ Scene Parsing through ADE20K Dataset. B. Zhou, H. Zhao, X. Puig, S. Fidler, A. B
 
 
 
-
-## Instance Segmentation with Part Semantic Segmentation and Bbox Detection
-
 Here we use Mask RCNN bbox detection result
 
 
-## Instance Segmentation with Part Semantic Segmentation and Connection Prediction
+## Superpixels Segmentation and Connection Prediction
 
 We use Real-time super-pixel segmentation[gSLICr](https://github.com/carlren/gSLICr) to generate superpixels
 
+
+
+
+
+# Application:
+
+## Model Compression
+
+In order to improve network speed,  
+
+
+
+
+# How to visual and explain Mask RCNN 
